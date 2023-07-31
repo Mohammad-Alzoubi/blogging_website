@@ -1,0 +1,24 @@
+/*.navbar-brand-logo{*/
+/*    max-width: 9rem !important;*/
+/*}*/
+
+.navbar-brand-logo {
+     width: 0;
+     min-width: 0 !important;
+    max-width: 3.1rem !important;
+}
+
+.bg-dark{
+    background-color: #033238 !important;
+}
+
+.navbar-vertical-aside.navbar-dark .nav-link {
+    color: #fff !important;
+}
+
+.nav-icon {
+    font-size: 17px !important;
+}
+
+
+
