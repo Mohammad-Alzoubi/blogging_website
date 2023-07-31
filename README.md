@@ -2,6 +2,17 @@
 
 ## Table Of Contents
 
+## Details about login to dashboard
+- Page login => http://127.0.0.1:8000/blogging-cms/login
+ 
+Admin
+- Email: admin@gmail.com
+- Password: 12345678
+
+User
+- Email: user@gmail.com
+- Password: 12345678
+
 ## Requirements
 - Laravel 9.x (PHP 8.1)
 - Composer
